@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension key="org.civicrm.module.civimembershipperiod" type="module">
-  <file>civimembershipperiod</file>
-  <name>civiMembershipPeriod</name>
+<extension key="org.civicrm.module.civiMembershipPeriod" type="module">
+  <file>civiMembershipPeriod</file>
+  <name>civi_Membership_Period</name>
   <description>Enables Time Period of Membership Renewed or Created Automatically . -----This extension is created as a test for Compucorp application process and is not ready for production deployment------</description>
   <urls>
     <url desc="Main Extension Page">
